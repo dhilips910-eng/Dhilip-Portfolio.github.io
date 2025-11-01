@@ -1,8 +1,10 @@
 # 💼 Dhilip S — Electrical and Electronics Engineer
 
-📧 **Email:** Dhilip.dili25@gmail.com  
+📧 **Email:** [Dhilip.dili25@gmail.com](mailto:Dhilip.dili25@gmail.com)  
 📱 **Phone:** 9940986885  
 📍 **Location:** Hosur, India  
+🔗 **LinkedIn:** (http://www.linkedin.com/in/dhilip-s-71a188278)  
+📄 **Resume:** (https://drive.google.com/file/d/1rsn2wfR-oaGtn_WC-uGvxhlj5wQDY9h4/view?usp=drivesdk)
 
 ---
 
@@ -106,5 +108,3 @@ Eager to contribute to projects that integrate **smart technology** and **sustai
 ---
 
 **© 2025 Dhilip S**
-# Dhilip-Portfolio.github.io
-portfolio
