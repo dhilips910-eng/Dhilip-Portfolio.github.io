@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dhilips910-eng/Dhilip-Portfolio.github.io/blob/main/dhilip.jpg" alt="Dhilip S" width="150" height="150" style="border-radius:50%">
+  <img src="dhilip.jpg" alt="Dhilip S" width="150" height="150" style="border-radius:50%">
 </p>
 
 <h1 align="center">💼 Dhilip S — Electrical and Electronics Engineer</h1>
