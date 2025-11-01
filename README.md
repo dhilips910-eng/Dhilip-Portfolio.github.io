@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="C:\Users\HP\OneDrive\Pictures\dhilip.jpg" alt="Dhilip S" width="150" height="150" style="border-radius:50%">
+</p>
+
+<h1 align="center">💼 Dhilip S — Electrical and Electronics Engineer</h1>
 # 💼 Dhilip S — Electrical and Electronics Engineer
 
 📧 **Email:** [Dhilip.dili25@gmail.com](mailto:Dhilip.dili25@gmail.com)  
