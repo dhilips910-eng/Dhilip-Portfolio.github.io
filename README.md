@@ -94,6 +94,43 @@ Problem-Solving | Adaptability | Innovative Mindset | Team Collaboration
 - Implemented **user login**, **product listing**, and **cart management** features.  
 - Strengthened understanding of **frontend-backend integration** and **database management**.
 
+- ## 🖼️ Project Gallery Slider
+
+<a id="slide1"></a>
+<p align="center">
+  <img src="dhilip.jpg" alt="Electromagnetic Vehicle - Slide 1" width="600" style="border-radius:10px">
+</p>
+
+<p align="center">
+  <a href="#slide3"><img src="https://img.shields.io/badge/⬅️%20Previous-blue?style=for-the-badge"></a>
+  <a href="#slide2"><img src="https://img.shields.io/badge/Next%20➡️-blue?style=for-the-badge"></a>
+</p>
+
+---
+
+<a id="slide2"></a>
+<p align="center">
+  <img src="dhilip.jpg" alt="Solar IoT Monitoring - Slide 2" width="600" style="border-radius:10px">
+</p>
+
+<p align="center">
+  <a href="#slide1"><img src="https://img.shields.io/badge/⬅️%20Previous-blue?style=for-the-badge"></a>
+  <a href="#slide3"><img src="https://img.shields.io/badge/Next%20➡️-blue?style=for-the-badge"></a>
+</p>
+
+---
+
+<a id="slide3"></a>
+<p align="center">
+  <img src="project3.jpg" alt="E-Commerce Website - Slide 3" width="600" style="border-radius:10px">
+</p>
+
+<p align="center">
+  <a href="#slide2"><img src="https://img.shields.io/badge/⬅️%20Previous-blue?style=for-the-badge"></a>
+  <a href="#slide1"><img src="https://img.shields.io/badge/Next%20➡️-blue?style=for-the-badge"></a>
+</p>
+
+
 ---
 
 ## 🌍 Languages
