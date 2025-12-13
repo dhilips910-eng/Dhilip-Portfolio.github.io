@@ -130,7 +130,120 @@ Problem-Solving | Adaptability | Innovative Mindset | Team Collaboration
   <a href="#slide1"><img src="https://img.shields.io/badge/Next%20➡️-blue?style=for-the-badge"></a>
 </p>
 
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Slideshow Preview</title>
+    <style>
+        /* Basic styling to mimic GitHub's README rendering */
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+            font-size: 16px;
+            line-height: 1.5;
+            color: #24292f;
+            background-color: #ffffff;
+            margin: 0;
+            padding: 40px;
+            max-width: 900px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        
+        h1, h2, h3 {
+            border-bottom: 1px solid #d0d7de;
+            padding-bottom: .3em;
+        }
 
+        a {
+            color: #0969da;
+            text-decoration: none;
+        }
+
+        img {
+            max-width: 100%;
+            box-sizing: border-box;
+            background-color: #fff;
+        }
+
+        /* Center alignment helper */
+        div[align="center"] {
+            text-align: center;
+        }
+
+        /* NOTE: 
+           In the actual GitHub README, we use multiple <br> tags to create space.
+           I am using them here to simulate that exact behavior.
+        */
+    </style>
+</head>
+<body>
+
+    <h2>GitHub README Slideshow Preview</h2>
+    <p><i>Scroll down or use the buttons to navigate. The massive gaps are intentional to simulate "pages".</i></p>
+    <hr>
+
+    <!-- SLIDE 1 -->
+    <a id="slide1"></a>
+    <div align="center">
+        <!-- Placeholder image used for preview. Replace 'src' with 'dhilip.jpg' in your actual file -->
+        <img src="https://placehold.co/800x500/2980b9/ffffff?text=Slide+1:+Electromagnetic+Vehicle" alt="Electromagnetic Vehicle - Slide 1" width="800" style="border-radius:10px">
+        
+        <br><br>
+
+        <!-- Navigation Buttons -->
+        <!-- Fixed the Previous button to Loop to Slide 3 -->
+        <a href="#slide3"><img src="https://img.shields.io/badge/⬅️_Previous-Loop-blue?style=for-the-badge" alt="Previous"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- Fixed the broken Google link in the src -->
+        <a href="#slide2"><img src="https://img.shields.io/badge/Next_➡️-Slide_2-blue?style=for-the-badge" alt="Next"></a>
+    </div>
+
+    <!-- SPACER TO HIDE NEXT SLIDE -->
+    <!-- GitHub requires actual line breaks <br>, not just CSS margin -->
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    <!-- SLIDE 2 -->
+    <a id="slide2"></a>
+    <div align="center">
+        <!-- Placeholder image used for preview. Replace 'src' with 'dhilip.jpg' in your actual file -->
+        <img src="https://placehold.co/800x500/27ae60/ffffff?text=Slide+2:+Solar+IoT+Monitoring" alt="Solar IoT Monitoring - Slide 2" width="800" style="border-radius:10px">
+        
+        <br><br>
+
+        <!-- Navigation Buttons -->
+        <a href="#slide1"><img src="https://img.shields.io/badge/⬅️_Previous-Slide_1-blue?style=for-the-badge" alt="Previous"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="#slide3"><img src="https://img.shields.io/badge/Next_➡️-Slide_3-blue?style=for-the-badge" alt="Next"></a>
+    </div>
+
+    <!-- SPACER TO HIDE NEXT SLIDE -->
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+    <!-- SLIDE 3 -->
+    <a id="slide3"></a>
+    <div align="center">
+        <!-- Placeholder image used for preview. Replace 'src' with 'project3.jpg' in your actual file -->
+        <img src="https://placehold.co/800x500/8e44ad/ffffff?text=Slide+3:+E-Commerce+Website" alt="E-Commerce Website - Slide 3" width="800" style="border-radius:10px">
+        
+        <br><br>
+
+        <!-- Navigation Buttons -->
+        <a href="#slide2"><img src="https://img.shields.io/badge/⬅️_Previous-Slide_2-blue?style=for-the-badge" alt="Previous"></a>
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- Fixed the broken Google link in the src -->
+        <a href="#slide1"><img src="https://img.shields.io/badge/Next_➡️-Loop-blue?style=for-the-badge" alt="Next"></a>
+    </div>
+
+    <!-- Final spacer to ensure the last slide sits at the top when clicked -->
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+</body>
+</html>
 ---
 
 ## 🌍 Languages
